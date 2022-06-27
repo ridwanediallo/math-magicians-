@@ -9,7 +9,7 @@
 
 ## sneak peek
 
-![Application screenshot](src/calculator.png)
+![Application screenshot]()
 
 ## Getting Started
 
@@ -30,7 +30,7 @@ To get a local copy up and running follow these simple exampl
 - Run `npm start` to run the live server.
 - Run `npm test` to run the tests.
 
-## About me
+## Author
 
 👤 **Ridwan**
 
