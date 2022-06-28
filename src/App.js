@@ -1,12 +1,18 @@
 import './App.css';
 import Calculator from './components/Calculator';
 
-function App() {
-  return (
-    <div>
-      <Calculator />
-    </div>
-  );
-}
+class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {};
+  }
 
+  render() {
+    return (
+      <div className="App">
+        <Calculator />
+      </div>
+    );
+  }
+}
 export default App;
