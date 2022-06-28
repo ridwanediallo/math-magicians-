@@ -6,7 +6,6 @@
 
 - React (CRA)
 
-
 ## sneak peek
 
 ![Application screenshot]()
@@ -18,14 +17,12 @@ To get a local copy up and running follow these simple exampl
 
 #### Live demo
 
-[Math Magicians Website](https://ridwanediallo.github.io/Math-magicians/) _Coming Soon_
+[Math Magicians Website]() _Coming Soon_
 
-### **Option 2**
+#### To get a local copy up and running follow these simple example steps.
 
-#### Set up your own copy locally
-
-- Clone [the GitHub Repository](https://github.com/ridwanediallo/Math-magicians.git)
-- Go to the Project `cd "Math-magicians`
+- Clone [the GitHub Repository](https://github.com/ridwanediallo/math-magicians-.git)
+- Go to the Project `cd "math-magicians-`
 - Run `npm install` to install the _dependencies_
 - Run `npm start` to run the live server.
 - Run `npm test` to run the tests.
@@ -50,4 +47,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is under the [MIT](./LICENSE) license.
+This project is [MIT](./MIT.md) licensed.
