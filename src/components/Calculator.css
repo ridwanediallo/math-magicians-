@@ -6,10 +6,13 @@
   font-weight: normal;
 }
 
-.container {
-  /* display: flex; */
-  max-width: 90%;
-  margin: 0 auto;
+.parent {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10rem;
+  /* align-items: center; */
+  /* max-width: 90%; */
+  /* margin: 0 auto; */
 }
 
 h2 {
@@ -17,10 +20,10 @@ h2 {
 }
 
 .calculator {
-  top: 50%;
+  /* top: 50%;
   left: 65%;
   position: absolute;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); */
   width: 270px;
 }
 
