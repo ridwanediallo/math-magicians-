@@ -1,0 +1,10 @@
+.contianer {
+  margin: 0 auto;
+  max-width: 90%;
+}
+
+.quote {
+  font-size: 30px;
+  position: absolute;
+  top: 40%;
+}
