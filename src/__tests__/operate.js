@@ -55,4 +55,3 @@ describe('division: ', () => {
     expect(operate(-1, -1, '÷')).toBe('1');
   });
 });
-
