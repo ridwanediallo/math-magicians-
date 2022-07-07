@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render Footer correctly 1`] = `
+<footer
+  className="footer"
+>
+  <h2
+    className="copyright"
+  >
+    ©️ RidwanApps 2022
+  </h2>
+</footer>
+`;
