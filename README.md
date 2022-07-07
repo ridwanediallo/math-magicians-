@@ -8,7 +8,7 @@
 
 ## sneak peek
 
-![Application screenshot]()
+![Application screenshot](./src/calculator.png)
 
 ## Getting Started
 
@@ -34,6 +34,12 @@ To get a local copy up and running follow these simple exampl
 - GitHub: [@githubridwan](https://github.com/ridwanediallo)
 - Twitter: [@twitterridwan](https://twitter.com/RidwaneD)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ridwan-diallo-9a1634193)
+
+👤 **Toma John Musa**
+
+- GitHub: [@Kamba56](https://github.com/Kamba56)
+- Twitter: [@Kamba_TJ](https://twitter.com/Kamba_TJ)
+- LinkedIn: [Toma](https://linkedin.com/in/toma-john-47092622b)
 
 ## Contributors
 
